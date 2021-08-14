@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokewhat/static/css/main.a617e044.chunk.css",
+    "main.js": "/pokewhat/static/js/main.7462590d.chunk.js",
+    "main.js.map": "/pokewhat/static/js/main.7462590d.chunk.js.map",
+    "runtime-main.js": "/pokewhat/static/js/runtime-main.a609e60a.js",
+    "runtime-main.js.map": "/pokewhat/static/js/runtime-main.a609e60a.js.map",
+    "static/js/2.1840ce98.chunk.js": "/pokewhat/static/js/2.1840ce98.chunk.js",
+    "static/js/2.1840ce98.chunk.js.map": "/pokewhat/static/js/2.1840ce98.chunk.js.map",
+    "static/js/3.50686e5f.chunk.js": "/pokewhat/static/js/3.50686e5f.chunk.js",
+    "static/js/3.50686e5f.chunk.js.map": "/pokewhat/static/js/3.50686e5f.chunk.js.map",
+    "index.html": "/pokewhat/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pokewhat/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1840ce98.chunk.js.LICENSE.txt": "/pokewhat/static/js/2.1840ce98.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pokewhat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a609e60a.js",
+    "static/js/2.1840ce98.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7462590d.chunk.js"
+  ]
+}
